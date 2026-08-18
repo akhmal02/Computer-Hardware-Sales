@@ -1,7 +1,7 @@
 <?php
-$user = "system";
-$pass = "oracle";
-$host = "localhost/FREEPDB1";
+$user = "###";
+$pass = "###";
+$host = "localhost/###";
 $dbconn = oci_connect($user, $pass, $host);
 if (!$dbconn) {
     $e = oci_error();
