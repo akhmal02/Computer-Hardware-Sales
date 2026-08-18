@@ -4,3 +4,5 @@ Computer sales management system for Pertama Computer Store to improve sales rec
 This project involved software as below: 
 1. Visual Studio Code (HTML,PHP, JS, CSS, BOOTSTRAP)
 2. Database (Oracle AI)
+
+For connection, kindly setup as your computer setup by update file "connection.php".
