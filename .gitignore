@@ -1,0 +1,13 @@
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment and sensitive config
+*.local.php
+.env
+
+# Temporary / Backup archives
+chas/temp/
+*.log
